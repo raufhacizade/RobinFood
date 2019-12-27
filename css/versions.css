@@ -1,0 +1,434 @@
+/*------------------------------------------------------------------
+    Version: 1.0
+-------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------
+    [Table of contents]
+
+    1. APP VERSION
+
+-------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------
+    APP SHOWCASE VERSION
+-------------------------------------------------------------------*/
+
+
+body.app_version .lead strong,
+body.app_version .icon-wrapper:hover a, {
+    color: #e80d45
+}
+
+
+/**************************************
+GRADIENTS 
+**************************************/
+
+body.app_version .btn-buy:hover,
+body.app_version .icon_wrap:hover,
+body.app_version .nav-pills > li.active > a,
+body.app_version .nav-pills > li.active > a:focus,
+body.app_version .nav-pills > li.active > a:hover,
+body.app_version .icon-wrapper:hover i,
+body.app_version .grd1 {
+    color: #ffffff;
+    background: #AD1457;
+    border: 1px solid #AD1457;
+}
+
+body.app_version .icon_wrap,
+body.app_version .dmtop:hover,
+body.app_version .features-right li:hover i,
+body.app_version .features-left li:hover i,
+body.app_version .nav-pills > li:hover > a,
+body.app_version .nav-pills > li:focus > a,
+body.app_version .nav-pills > li.active > a,
+body.app_version .nav-pills > li.active > a:focus,
+body.app_version .nav-pills > li.active > a:hover,
+body.app_version .divider-bar,
+body.app_version .owl-next:hover i,
+body.app_version .owl-prev:hover i,
+body.app_version .icon-wrapper:hover i:hover,
+body.app_version .grd1:hover,
+body.app_version .grd1:focus {
+    background-position: 100px;
+    color: #ffffff;
+    background: #C62828;    
+	box-shadow: 0px 1px 27px -3px rgba(0, 0, 0, 0.2);
+}
+
+body.app_version .navbar-nav span {
+    color: #0d61d0 !important;
+}
+
+
+body.app_version .cac:hover{
+	background: #C62828;    
+}
+
+/**************************************
+OTHERS 
+**************************************/
+
+body.app_version .app_iphone_01 {
+    width: 700px;
+    position: absolute;
+    right: 10%;
+    z-index: 2;
+    bottom: -32%;
+}
+
+body.app_version .app_iphone_02 {
+    width: 700px;
+    position: absolute;
+    right: 0%;
+    bottom: -46%;
+    z-index: 1;
+}
+
+body.app_version .cac {
+    background-color: #ad1457;
+}
+
+body.app_version .dmtop,
+body.app_version .footer,
+body.app_version .affix {
+    background-color: #201b25;
+}
+
+body.app_version .copyrights {
+    background-color: #1c1721;
+}
+
+body.app_version .footer-distributed form input {
+    background-color: #120d17;
+}
+
+body.app_version .btn-light {
+    color: #ffffff;
+    opacity: 1;
+}
+
+body.app_version .btn-light:hover {
+	background: #ffffff;
+	color: #121212;
+}
+
+body.app_version .btn-light i {
+    margin-right: 5px;
+    vertical-align: middle;
+}
+
+body.app_version .effect-1:after {
+    box-shadow: 0 0 0 2px #AD1457;
+}
+
+body.app_version .footer a,
+body.app_version .cac a h3,
+body.app_version .footer-distributed form input,
+body.app_version .footer-distributed .footer-company-name,
+body.app_version .footer {
+    color: #736e78;
+}
+
+body.app_version .footer-distributed form input::-webkit-input-placeholder {
+    color: #736e78;
+}
+
+body.app_version .footer-distributed form input::-moz-placeholder {
+    opacity: 1;
+    color: #736e78;
+}
+
+body.app_version .footer-distributed form input:-ms-input-placeholder {
+    color: #736e78;
+}
+
+body.app_version .noover {
+    overflow: hidden;
+}
+
+body.app_version .noover i {
+    font-size: 34px;
+    vertical-align: middle;
+    color: #ffffff;
+    color: rgba(255, 255, 255, 0.6) ;
+}
+
+body.app_version .noover p {
+    color: rgba(255, 255, 255, 1);
+}
+
+body.app_version .desc {
+    background-color: #ffffff;
+    box-shadow: 0 5px 14px rgba(0, 0, 0, 0.1);
+    border: 0 solid #efefef;
+}
+
+body.app_version .contact_form {
+    background-color: transparent;
+}
+
+body.app_version .owl-next i,
+body.app_version .owl-prev i {
+    background-color: #C62828;
+	color: #ffffff;
+}
+
+body.app_version .desc h3 i {
+    color: #C62828;
+}
+
+body.app_version .header_style_01 {
+    top: 45px;
+}
+
+body.app_version .stat-wrap .alignleft {
+    margin-right: 20px;
+}
+
+body.app_version .stat-wrap h3 {
+    color: #ffffff !important;
+    display: block;
+    margin-top: 10px !important;
+}
+
+body.app_version .stat-wrap .rating i {
+    color: #eabe12;
+}
+
+body.app_version .stat-wrap p {
+    color: #ffffff;
+    font-size: 38px;
+    font-weight: 500;
+    margin: 0;
+    padding: 12px 0 0;
+    line-height: 1;
+}
+
+body.app_version .section.db .section-title h2 {
+    color: rgba(255, 255, 255, 0.7) !important;
+    padding: 0;
+    letter-spacing: 2px;
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+body.app_version .apple-button a,
+body.app_version .cac a h3,
+body.app_version .section.db .section-title .lead {
+    color: #ffffff !important;
+}
+
+body.app_version .apple-button {
+    line-height: 1;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    padding: 30px 20px;
+    border-radius: 8px;
+}
+
+body.app_version .apple-button i {
+    margin: -5px 20px;
+    vertical-align: middle;
+    font-size: 64px;
+}
+
+body.app_version .apple-button {
+    font-size: 21px;
+    font-weight: 300;
+}
+
+body.app_version .apple-button strong {
+    line-height: 1;
+    margin-top: 5px;
+    text-transform: uppercase;
+    font-size: 31px;
+    display: block;
+}
+
+body.app_version .dev-list .widget p {
+    margin: 0;
+    padding: 5px 0 15px;
+}
+
+body.app_version .dev-list img {
+    width: 100%;
+}
+
+body.app_version .footer-social .btn {
+    padding: 0;
+    width: 35px;
+    height: 35px;
+    line-height: 33px;
+    text-align: center;
+    margin: 0 3px;
+    border: 1px solid #e80d45 !important;
+    color: #ffffff;
+    background-color: #e80d45 !important;
+}
+
+body.app_version .dev-list .widget {
+    padding: 30px;
+    border: 1px solid #ededed;
+}
+
+body.app_version .dev-list .widget h3 {
+    font-size: 21px;
+    padding: 0 0 5px;
+    margin: 0;
+    line-height: 1 !important;
+}
+
+body.app_version .dev-list .widget-title {
+    padding: 20px 0 10px;
+    margin: 0;
+    line-height: 1 !important;
+}
+
+body.app_version .iphones {
+    width: 1080px;
+	max-width: 1080px;
+    position: absolute;
+    right: -20%;
+    bottom: -16%;
+    z-index: 0;
+}
+
+body.app_version .how-its-work .hc {
+    background-color: #111;
+    padding: 40px;
+    width: 25%;
+    color: #ffffff;
+    float: left;
+}
+
+body.app_version .how-its-work .hc h2 {
+    font-size: 150px;
+    display: block;
+    padding: 0 0 0 30px;
+    margin: 0 0 15px;
+    line-height: 50px !important;
+    font-weight: bold;
+    color: rgba(255,255,255,0.1);
+	position: relative;
+	z-index: 1;
+}
+
+body.app_version .how-its-work .hc h3{
+	color: #ffffff;
+	font-size: 38px;
+	position: relative;
+	z-index: 2;
+}
+
+body.app_version .how-its-work .hc p {
+    font-size: 21px;
+    font-weight: 300;
+    color: #ffffff !important;
+}
+
+body.app_version .how-its-work .hc p.lead {
+    font-size: 15px;
+    font-weight: 400;
+    color: #ffffff !important;
+}
+
+body.app_version .hc.colon1 {
+    background-color: #C62828;
+}
+
+body.app_version .hc.colon2 {
+    background-color: #AD1457;
+}
+
+body.app_version .hc.colon3 {
+    background-color: #C62828;
+}
+
+body.app_version .hc.colon4 {
+    background-color: #AD1457;
+}
+
+body.app_version .app-features li {
+    border-bottom: 1px dashed #ddd;
+    padding-bottom: 30px;
+}
+
+body.app_version .app-features li:last-child {
+    border-bottom: 0 dashed #efefef;
+    padding-bottom: 0px;
+}
+
+body.app_version .entry {
+    position: relative;
+    padding: 0 !important;
+    margin-bottom: 0;
+    overflow: hidden;
+}
+
+body.app_version .magnifier {
+    position: absolute;
+    top: 0;
+    cursor: pointer !important;
+    background-color: rgba(0, 0, 0, 0.8);
+	border-radius: 100px;
+    left: 0;
+    bottom: 500px;
+    right: 0;
+    z-index: 1;
+    zoom: 1;
+    cursor: crosshair;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    -webkit-transition: all .8s ease-in-out;
+    -moz-transition: all .8s ease-in-out;
+    -ms-transition: all .8s ease-in-out;
+    -o-transition: all .8s ease-in-out;
+    transition: all .8s ease-in-out;
+}
+
+body.app_version .entry:hover .magnifier {
+    zoom: 1;
+    bottom: 0;
+    filter: alpha(opacity=100);
+    opacity: 1;
+	border-radius: 0px;
+}
+
+body.app_version .owl-app {
+    position: relative;
+    overflow: hidden;
+    background-color: #fff;
+    height: 600px;
+    margin: 0 auto;
+    z-index: 1;
+    width: 300px;
+}
+
+body.app_version .owl-app::before {
+    background: url("../images/phonebg.png") no-repeat scroll center center;
+    content: "";
+    height: 600px;
+    padding: 0;
+    overflow: hidden;
+    position: absolute;
+    width: 300px;
+    z-index: 1;
+}
+
+body.app_version .owl-phone {
+    overflow: hidden;
+    background-color: #111;
+    margin: 70px auto 0;
+    height: 449px;
+    display: block;
+    z-index: 2;
+    text-align: center;
+    width: 272px !important;
+    display: block;
+    width: 100%;
+    height: auto;
+}
